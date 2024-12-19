@@ -1,12 +1,10 @@
 html {
   font-size: 20px;
-  height: 100%; /* ビューポート全体の高さを確保 */
   text-align: center; /* 文字の中央揃え */
 }
 
 body{
   font-family: "Arial", "Meiryo", sans-serif;
-  text-align: center;/* 文字を中央揃え */
 }
 
 .blue{
@@ -18,10 +16,8 @@ body{
 }
 
 h1{
+  font-size: 2em;
   font-family: "Josefin Sans", serif;
-  font-optical-sizing: 40px;
-  font-weight: 400;
-  font-style: normal;
   letter-spacing: 1.2em; /* 文字間を1文字の1.2倍に設定 */
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* 文字に影を付ける */
   border-bottom: 3px solid rgb(115, 115, 114); /* 下に3pxの実線を追加 */
