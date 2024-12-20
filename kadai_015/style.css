@@ -21,9 +21,8 @@ h1{
   letter-spacing: 1.2em; /* 文字間を1文字の1.2倍に設定 */
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* 文字に影を付ける */
   border-bottom: 3px solid rgb(115, 115, 114); /* 下に3pxの実線を追加 */
-
 }
 
-.bold{
+#basic .bold {
   font-weight: bold;
 }
