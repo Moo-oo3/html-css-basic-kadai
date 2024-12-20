@@ -16,7 +16,7 @@ body{
 }
 
 h1{
-  font-size: 2em;
+  font-size: 2rem;
   font-family: "Josefin Sans", serif;
   letter-spacing: 1.2em; /* 文字間を1文字の1.2倍に設定 */
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* 文字に影を付ける */
@@ -24,6 +24,6 @@ h1{
 
 }
 
-#basic{
+.bold{
   font-weight: bold;
 }
